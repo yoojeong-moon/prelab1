@@ -18,13 +18,16 @@ prelab source repository
 
 # 제목
 - 코드명    
-- 팀원    
-- GitHub
+- 이태희, 임태경, 강명구, 최동규, 문유정     
+- GitHub : github.com/yoojeong-moon/prelab1
 # 목적
+ - Boston housing 데이터를 기반으로 여러변수들을 가지고 집값을 예측함 
 # 데이터 처리 과정
 ## EDA
 ## Preprocessing
 # 모델 생성
-# 모델 설능 
+ - MLP
+# 모델 성능
+ - 
 # 성능 그래프
 # 파급효과
