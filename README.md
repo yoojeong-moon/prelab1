@@ -1,4 +1,4 @@
-# prelab1
+<!-- # prelab1
 prelab source repository
 
 
@@ -14,3 +14,17 @@ prelab source repository
 |1 |aaa |  
 |2 |bbb |  
 |3 |cccc |  
+ -->
+
+# 제목
+- 코드명    
+- 팀원    
+- GitHub
+# 목적
+# 데이터 처리 과정
+## EDA
+## Preprocessing
+# 모델 생성
+# 모델 설능 
+# 성능 그래프
+# 파급효과
